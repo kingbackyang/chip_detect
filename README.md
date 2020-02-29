@@ -2,7 +2,7 @@
 
 系统功能由**文件输入输出**、**图像显示**、**图像标注**、**缺陷检测**四部分组成。
 ## 系统总体框架
-[系统框架]：(https://github.com/kingbackyang/chip_detect/blob/master/imgs/structure.png)
+[系统框架](https://github.com/kingbackyang/chip_detect/blob/master/imgs/structure.png)
 ## 文件输入输出
 1. 打开文件夹
 2. 打开文件
